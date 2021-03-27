@@ -28,6 +28,6 @@ device-id:          "GPU index"
 n:                  "Number of pixels displayed"
 output-folder:      "Filepath where quantitative outputs are stored"
 imagenet-classes:   "Filepath where imagenet class data is stored"
-injection-count:   "Number of random injections to introduce (to neural dropout)"
+injection-count:    "Number of random injections to introduce (to neural dropout)"
 ```
 
